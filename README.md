@@ -5,6 +5,8 @@ Course: Algorithms and Complexity
 
 Professor: Marek Rogalski
 
+[Research Paper](https://github.com/AdiletBaimyrza/AlgorithmsComparison/blob/master/ResearchPaper.pdf)
+
 ### Introduction
 In this project I compared 4 well-known comparison-based sorting algorithms. I implemented them using no external source of information, which guarantees the originality of the source code. Algorithms presented below and their implementations could be found in **AlgorithmsComparison** directory:
 - Merge Sort 
