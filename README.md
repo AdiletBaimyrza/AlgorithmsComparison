@@ -17,6 +17,9 @@ The above algorithms were implemented in C++ language and were tested on my lapt
 The result for each size is the average time it took for each algorithm to sort the input array. 
 
 ### 3 Resulted Graphs
+![](/graphs_photos/big.jpg "")
+![](/graphs_photos/bigWithoutInsertion.jpg "")
+![](/graphs_photos/small.jpg "")
 The data is visualized using graphs created based on obtained data stored in files:
 - **random_small.txt**
 - **random.txt**
