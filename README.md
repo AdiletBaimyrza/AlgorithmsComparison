@@ -20,6 +20,7 @@ The result for each size is the average time it took for each algorithm to sort 
 ![](/graphs_photos/big.jpg "")
 ![](/graphs_photos/bigWithoutInsertion.jpg "")
 ![](/graphs_photos/small.jpg "")
+
 The data is visualized using graphs created based on obtained data stored in files:
 - **random_small.txt**
 - **random.txt**
