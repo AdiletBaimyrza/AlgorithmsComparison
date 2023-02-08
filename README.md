@@ -1,6 +1,8 @@
 ## The Comparison Between Merge, Quick, Insertion, and Heap Sorting Algorithms
 University of Lodz
+
 Course: Algorithms and Complexity
+
 Professor: Marek Rogalski
 
 ### Introduction
@@ -9,6 +11,7 @@ In this project I compared 4 well-known comparison-based sorting algorithms. I i
 - Quick Sort
 - Insertion Sort
 - Heap Sort
+
 Each algorithm is going to sort an array of size n, where the integer is bounded to the range (-n, n). The items will be sorted in an ascending order.
 
 ### Methodology
