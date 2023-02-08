@@ -4,7 +4,7 @@ Course: Algorithms and Complexity
 Professor: Marek Rogalski
 
 ### Introduction
-In this project I compared 4 well-known comparison-based sorting algorithms. I implemented them without using any external source of information, which guarantees the originality of the source code. Algorithms presented below and their implementations could be found in **AlgorithmsComparison** directory:
+In this project I compared 4 well-known comparison-based sorting algorithms. I implemented them using no external source of information, which guarantees the originality of the source code. Algorithms presented below and their implementations could be found in **AlgorithmsComparison** directory:
 - Merge Sort 
 - Quick Sort
 - Insertion Sort
